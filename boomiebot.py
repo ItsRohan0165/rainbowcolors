@@ -2,6 +2,7 @@ import discord
 import asyncio
 import time
 import colorsys
+import os
 
 client = discord.Client()
 initialised = False
