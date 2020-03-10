@@ -43,4 +43,4 @@ async def on_ready():
 
 
 
-client.run(os.getenv"token")
+client.run(os.getenv("token"))
