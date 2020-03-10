@@ -27,7 +27,7 @@ async def on_ready():
                 break
 
         for role in flash_server.roles:
-            if role.id == 686862582606200881:
+            if role.id == 669137691778220033:
                 flash_role = role
                 break
             
